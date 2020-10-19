@@ -7,15 +7,6 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 - Node/NPM instalados
 - Angular CLI
 
-# Setup
-
-- git clone https://github.com/stewwan/super-store.git
-- cd super-store
-- git checkout aula-22
-- cd super-store
-- npm install
-- ng serve
-
 # Contribuindo
 
 - faça o fork do projeto
