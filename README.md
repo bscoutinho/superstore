@@ -6,11 +6,3 @@ Esta é a aplicação desenvolvida durante o workshop SDA 2017. Cada aula é evo
 
 - Node/NPM instalados
 - Angular CLI
-
-# Contribuindo
-
-- faça o fork do projeto
-- clone o fork em sua maquina
-- crie uma nova branch. ex: `git checkout -b fix/aula-22`
-- faça o push da nova branch pro seu fork `git push origin fix/aula-22`
-- abra um pull request
